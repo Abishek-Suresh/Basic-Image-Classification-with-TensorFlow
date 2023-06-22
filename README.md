@@ -17,5 +17,5 @@ Stochastic Gradient
 Categorical cross entropy
 
 ## Model Accuracy:
-![Accuracy Obtained](https://github.com/Abishek-Suresh/Basic-Image-Classification-with-TensorFlow/blob/main/images/Model_accuracy.png)
+![Accuracy Obtained](images/Model_accuracy.png)
 96%
