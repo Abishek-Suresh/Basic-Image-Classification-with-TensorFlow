@@ -20,3 +20,5 @@ Categorical cross entropy
 ![Accuracy Obtained](https://github.com/Abishek-Suresh/Basic-Image-Classification-with-TensorFlow/assets/90471014/6615f168-9600-4da7-8428-46347c490f99)
 <br>
 96%
+## Certificate:
+![Coursera U7PYC5KASDUW_page-0001](https://github.com/Abishek-Suresh/Basic-Image-Classification-with-TensorFlow/assets/90471014/c08b056a-ba66-47b2-9863-49c7b967be5b)
